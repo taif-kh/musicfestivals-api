@@ -41,7 +41,7 @@ The **Music Festivals API** is a RESTful API designed to provide global music fe
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/taif-kh/musicfestivals-api.git
    ```
 2. Install dependencies for the frontend and backend:
    ```bash
