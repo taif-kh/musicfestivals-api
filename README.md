@@ -1,4 +1,7 @@
-
+<img src="frontend/public/api_index.png" alt="MusicFestivalsAPI">
+<br />
+<img src="frontend/public/consumer_index.png" alt="Consumer's website">
+<br />
 
 # Music Festivals API 🎶
 
