@@ -5,7 +5,25 @@
 
 # Music Festivals API 🎶
 
-The **Music Festivals API** is a RESTful API designed to provide global music festival data, enabling clients to integrate event information seamlessly without backend development. It includes a demo client website for testing and showcases secure authentication, CRUD operations, and a subscription system for premium features.
+The Music Festivals API is a RESTful API designed to provide global music festival data, allowing clients to integrate event information seamlessly without backend development.
+
+It is developed using  React.js, Express.js, Node.js, PostgreSQL and includes:
+- **Comprehensive API Documentation** outlining all available CRUD operations.
+- **A Demo Client Website** to showcase how the API can be utilized in real-world applications
+
+<br />
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+</div>
 
 ---
 
